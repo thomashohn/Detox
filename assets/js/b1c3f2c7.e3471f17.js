@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2589],{2767:e=>{e.exports=JSON.parse('{"label":"genymotion","permalink":"/Detox/blog/tags/genymotion","allTagsPath":"/Detox/blog/tags","count":1}')}}]);
