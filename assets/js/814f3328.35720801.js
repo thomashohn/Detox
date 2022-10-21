@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"All our posts","items":[{"title":"detox-20-is-out","permalink":"/Detox/blog/detox-20-is-out"}]}')}}]);
