@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5202],{35753:e=>{e.exports=JSON.parse('{"label":"major-release","permalink":"/Detox/blog/tags/major-release","allTagsPath":"/Detox/blog/tags","count":1}')}}]);
