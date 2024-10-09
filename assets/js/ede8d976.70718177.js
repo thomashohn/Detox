@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[265],{73498:e=>{e.exports=JSON.parse('{"label":"detox-copilot","permalink":"/Detox/blog/tags/detox-copilot","allTagsPath":"/Detox/blog/tags","count":1}')}}]);
